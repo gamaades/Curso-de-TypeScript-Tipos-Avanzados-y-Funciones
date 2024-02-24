@@ -10,10 +10,14 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^7.0.1",
+    "@typescript-eslint/parser": "^7.0.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.3.3"
   },
   "dependencies": {
-    "@capacitor/camera": "^5.0.9"
+    "@capacitor/camera": "^5.0.9",
+    "@faker-js/faker": "^6.0.0-alpha.5",
+    "faker": "^5.5.3"
   }
 }
